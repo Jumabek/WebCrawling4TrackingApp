@@ -1,6 +1,7 @@
 # trackingApp
 tracking product prices on websites
-##Jakhongir's Tracker app
+
+## Jakhongir's Tracker app
 
 ## Requirements:
 `pip install bs4`
